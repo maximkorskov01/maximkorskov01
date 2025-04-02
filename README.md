@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm still studying, and information about me will be here soon.
 <!--
 **maximkorskov01/maximkorskov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
